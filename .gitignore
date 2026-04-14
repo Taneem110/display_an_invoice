@@ -1,0 +1,47 @@
+# Common build folders
+bin/
+obj/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment variables
+.env
+.env.local
+
+# NuGet
+.nuget/
+*.nupkg
+*.snupkg
+
+# Node (for any npm packages)
+node_modules/
+npm-debug.log
+
+# Build output
+publish/
+PublishProfiles/
